@@ -6,11 +6,8 @@ At the beginning, a dataset was given consisting of SMILES molecules for which a
 Data Curation
 
 1.Data cleaning
-
 2.Data inspection
-
 3. Missing data handling
-
 4. Outlier detection
 
 Feature engineering
